@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey, I'm Kevin 👋
+Software Engineering Student · Ecuador
 
-<!--
-**VendrichDev/VendrichDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"The expert in anything was once a beginner."
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 About me / Sobre mí
+EN — Second-semester Software Engineering student with a background in Psychology. I'm early in my journey, but I'm building deliberately: strong fundamentals first, then everything else.
+ES — Estudiante de Ingeniería en Software en segundo semestre, con background en Psicología. Estoy en los inicios, pero construyendo con intención: primero fundamentos sólidos, después todo lo demás.
+
+🛠️ Currently working with
+Languages  →  Java · Python · C#
+Environment  →  Linux · GitHub
+Learning  →  OOP · Data Structures · CS50x
+
+📡 Interests & direction
+Backend Development  ← main focus
+
+🌱 Current focus
+Solidifying OOP in Java
+Completing CS50x
+Building my first real projects to deploy
