@@ -35,7 +35,4 @@ Solidifying OOP in Java
 Completing CS50x  
 Building my first real projects to deploy
 
----  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vendrichdev&style=flat-square&color=blue" alt="profile views"/>
-</p>
+
